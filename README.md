@@ -1,1 +1,2 @@
-# Data-Science-Hnad-Written-Notes
+# Data-Science-Notes
+Python-Statistics-SQL-Machine Learning
